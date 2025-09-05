@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am a PhD student at the Australian National Unviersity under the supervision of [Po-Lam Yung](https://maths-people.anu.edu.au/~plyung/).
+
+My recent work includes:
+
+1. https://arxiv.org/abs/2412.09987
+
 <!--
 **Wen-Zha/Wen-Zha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
