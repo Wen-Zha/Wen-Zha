@@ -1,11 +1,14 @@
 ## Hi there 👋
 
-I am a PhD student at the Australian National Unviersity under the supervision of [Po-Lam Yung](https://maths-people.anu.edu.au/~plyung/).
+I am a PhD student at the Australian National Unviersity under the supervision of [Po-Lam Yung](https://maths-people.anu.edu.au/~plyung/). My research interests include harmonic analysis and partial differential equations.
 
 My recent work includes:
 
 1. https://arxiv.org/abs/2412.09987
 
+My talks:
+
+1. [Harmonic Analysis People's Presentations on Youtube: Happy World](https://web.sas.upenn.edu/harmonic-analysis/2025/10/27/wenqi-zhang-2025-stein-weiss-inequalities-for-canceling-l%c2%b9-data/)
 <!--
 **Wen-Zha/Wen-Zha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
