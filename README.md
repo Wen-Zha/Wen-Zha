@@ -8,7 +8,8 @@ My recent work includes:
 
 My talks:
 
-1. [Harmonic Analysis People's Presentations on Youtube (HAPPY): Hello World series](https://web.sas.upenn.edu/harmonic-analysis/2025/10/27/wenqi-zhang-2025-stein-weiss-inequalities-for-canceling-l%c2%b9-data/)
+1. [Nonlinear Analysis Seminar, organised by Daniel Spector](https://virtual.math.ntnu.edu.tw/nc/index.php/s/2pHCJHMQ28iBGzs)
+2. [Harmonic Analysis People's Presentations on Youtube (HAPPY): Hello World series](https://web.sas.upenn.edu/harmonic-analysis/2025/10/27/wenqi-zhang-2025-stein-weiss-inequalities-for-canceling-l%c2%b9-data/)
 <!--
 **Wen-Zha/Wen-Zha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
