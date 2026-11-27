@@ -1,0 +1,28 @@
+.right-image {
+    float: right;
+    width: 30%;
+    max-width: 280px;
+    margin: 0 0 15px 25px;
+}
+
+.right-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.right-image figcaption {
+    font-size: 0.85em;
+    color: #666;
+    text-align: center;
+    margin-top: 6px;
+}
+
+@media (max-width: 600px) {
+    .right-image {
+        float: none;
+        width: 100%;
+        max-width: 350px;
+        margin: 0 auto 20px auto;
+    }
+}
